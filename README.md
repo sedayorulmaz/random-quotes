@@ -1,8 +1,8 @@
 ## random-quotes
 
 **HTML, CSS and Javascript** are used in this application. <br>
-API pulled with fetch. <br>
-
+This app generates random quotes with the data it gets from the API (fetch). <br>
+                                                                         
 The quote can be changed with the buttons. <br>
 You can also tweet the quote directly. <br>
 
