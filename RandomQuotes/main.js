@@ -11,7 +11,7 @@ function GetQuotes (){
         Change();
     })
 }
-
+// Seda Yorulmaz
 function Change(){
     var count=quotes.length;
     var rndNumb=Math.floor(Math.random()*count);
